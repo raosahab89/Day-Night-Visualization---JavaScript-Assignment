@@ -1,0 +1,14 @@
+body{
+    background-color: #778da9;}
+    
+.main{
+    height: 100vh;
+    width: 100vw;
+    align-content: center;
+    text-align: center;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+}
